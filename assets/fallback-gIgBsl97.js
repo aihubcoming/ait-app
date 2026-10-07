@@ -3303,4 +3303,3 @@ var e=`"Month1" = "January";
 "RichButtonRight" = "Right";
 "RichEditorButtonCopyText" = "Text to copy";
 `;export{e as default};
-//# sourceMappingURL=fallback-gIgBsl97.js.map
